@@ -1,6 +1,6 @@
 {
   "name": "mshk1-simple-calculator",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "A Simple Calculator With Typescript, Node.js And Inquirer",
   "main": "index.js",
   "type": "module",
@@ -12,7 +12,8 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.3.0",
-    "inquirer": "^9.2.16"
+    "inquirer": "^9.2.16",
+    "mshk1-simple-calculator": "^2.2.4"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
